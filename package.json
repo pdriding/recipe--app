@@ -1,0 +1,23 @@
+{
+  "name": "forkify",
+  "version": "1.0.0",
+  "description": "Recipe application",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html --dist-dir ./dist"
+  },
+  "author": "Peter Riding",
+  "license": "ISC",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.8.2",
+    "parcel": "^2.8.2"
+  },
+  "dependencies": {
+    "@toast-ui/calendar": "^2.1.3",
+    "core-js": "^3.26.1",
+    "fractional": "^1.0.0",
+    "regenerator-runtime": "^0.13.11",
+    "tui-date-picker": "^4.3.3",
+    "tui-time-picker": "^2.1.6"
+  }
+}
