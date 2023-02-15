@@ -222,6 +222,8 @@ export const mealData = function (meal, recipe) {
   return completeMeal;
 };
 
+console.log('hello');
+
 //-------------PRACTISE-------------------
 
 // First, assume that the event is created as shown below..
