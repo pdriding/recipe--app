@@ -20,5 +20,5 @@
     "tui-date-picker": "^4.3.3",
     "tui-time-picker": "^2.1.6"
   },
-  "main": "index.js"
+  "main": "index.html"
 }
