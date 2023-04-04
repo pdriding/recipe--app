@@ -72,7 +72,7 @@ const controlSearchResults = async function () {
 // window.addEventListener('hashchange', controlRecipes);
 // window.addEventListener('load', controlRecipes);
 
-controlPagination = function (goToPage) {
+const controlPagination = function (goToPage) {
   // 1.) Render NEW results
   resultsView.render(model.getSearchResultsPage(goToPage));
 
