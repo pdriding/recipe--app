@@ -19,6 +19,5 @@
     "regenerator-runtime": "^0.13.11",
     "tui-date-picker": "^4.3.3",
     "tui-time-picker": "^2.1.6"
-  },
-  "main": "index.html"
+  }
 }
